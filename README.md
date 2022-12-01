@@ -13,4 +13,4 @@ This small java application calculates the average over all the frames in a tiff
 </br>
 5- Done, averaged tiff file will be created beside the original file with an avg- prefix.
 </br>
-* You may face heap memory exception for huge tiff files, give more ram to app to handle this using -Xmx with java command.(e.g. java -Xmx10G -jar tiff-0.1.jar )  
+* You may face heap memory exception for huge tiff files, give more ram to the app to handle this issue using -Xmx with java command.(e.g. java -Xmx10G -jar tiff-0.1.jar )  
