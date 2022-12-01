@@ -7,7 +7,7 @@ This small java application calculates the average over all the frames in a tiff
 </br>
 2- Put your tiff file in the same folder as the jar file
 </br>
-3- Run the tiff-0.0.1-SNAPSHOT.jar file using java -jar
+3- Run the tiff-0.1.jar file using java -jar
 </br>
 4- The app will request the tiff file name, enter it.
 </br>
